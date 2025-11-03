@@ -1,0 +1,2 @@
+DB_CONNECTION=sqlite
+DB_DATABASE=C:\Users\loren\ecommerce-api\database\database.sqlite
